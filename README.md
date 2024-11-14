@@ -13,4 +13,5 @@ Template to use for data analytics projects
 
 ## Change Log
 
-All changes made should be reported in the CHANGELOG.md file
+All changes made should be reported in the CHANGELOG.md file  
+New changes should be appended to the end of the CHANGELOG.md file
