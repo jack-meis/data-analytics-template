@@ -10,3 +10,7 @@ Template to use for data analytics projects
 [ ] Task 2  
 [ ] Task 3  
 [ ] Task 4
+
+## Change Log
+
+All changes made should be reported in the CHANGELOG.md file
