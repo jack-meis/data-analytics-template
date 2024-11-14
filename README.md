@@ -21,6 +21,9 @@ Table that provides column names, data types, column descriptions for the featur
 
 ## To Do List
 
+List of project tasks that need to be completed  
+Tasks should be crossed off once completed
+
 [ ] Task 1  
 [ ] Task 2  
 [ ] Task 3  
