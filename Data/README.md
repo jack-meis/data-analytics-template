@@ -4,8 +4,8 @@
 
 ### raw
 
-Folder for all raw data that has not yet been cleaned
+Folder for all raw data that was scraped, extracted, or imported
 
 ### cleaned
 
-Folder for all data that has been cleaned
+Folder for all cleaned data that has been cleaned and processed
