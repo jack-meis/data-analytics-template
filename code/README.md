@@ -2,6 +2,8 @@
 
 ## Folders
 
+Code folder contains two folders for the two coding file formats that will be used (notebooks & scripts)
+
 ### notebooks
 
 Folder for python notebook files (.ipynb)  
