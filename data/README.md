@@ -4,6 +4,10 @@
 
 Data must go into either the raw, processing, or cleaned folder
 
+### original
+
+Folder for any original data that has not been altered for any cleaning or processing
+
 ### raw
 
 Folder for all raw data that was scraped, extracted, or imported
