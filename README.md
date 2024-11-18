@@ -2,6 +2,28 @@
 
 Template to use for data analytics projects
 
+## Folders
+
+#### Code
+
+code folder has own README.md file
+
+Sub-folders:
+
+- notebooks: folder for all .ipynb files
+- scripts: folder fro all .py files
+
+#### Data
+
+data folder has own README.md file
+
+Sub-folders:
+
+- cleaned: folder for all fully cleaned data
+- original: all original data that is still in unmodified form
+- processing: all data that is in the process of being cleaned
+- raw: raw data that was scraped and has not undergone any cleaning
+
 ## Data Dictionary
 
 Table that provides column names, data types, column descriptions for the features in the data
@@ -24,10 +46,10 @@ Table that provides column names, data types, column descriptions for the featur
 **List of project tasks that need to be completed**  
 **Tasks should be crossed off once completed**
 
-[ ] Task 1  
-[ ] Task 2  
-[ ] Task 3  
-[ ] Task 4
+[ ] Update Data Dictionary  
+[ ] Scrape Data from Web  
+[ ] Clean Data  
+[ ] Report Findings
 
 ## Change Log
 

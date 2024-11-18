@@ -6,8 +6,7 @@ Code folder contains two folders for the two coding file formats that will be us
 
 ### notebooks
 
-Folder for python notebook files (.ipynb)  
-'sample.ipynb' is a python notebook that serves as a template for python notebook files
+Folder for python notebook files (.ipynb)
 
 Python notebook files should be run in the order that they appear in the notebooks folder based on the following naming convention:
 
