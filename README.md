@@ -6,7 +6,7 @@ Template to use for data analytics projects
 
 #### Code
 
-code folder has own README.md file
+'code' folder has own README.md file
 
 Sub-folders:
 
@@ -15,7 +15,7 @@ Sub-folders:
 
 #### Data
 
-data folder has own README.md file
+'data' folder has own README.md file
 
 Sub-folders:
 
@@ -23,6 +23,15 @@ Sub-folders:
 - original: all original data that is still in unmodified form
 - processing: all data that is in the process of being cleaned
 - raw: raw data that was scraped and has not undergone any cleaning
+
+#### Reports
+
+'reports' folder has own README.md file
+
+Sub-folders:
+
+- final: folder for all report final drafts
+- initial: initial drafts for all reports
 
 ## Data Dictionary
 
